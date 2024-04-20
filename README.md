@@ -30,7 +30,7 @@ Test files:
 - p2_tc1
 - p2_tc2
 
-The Script will out results to their respective files:
+The Script will output and write results to their respective files:
 - hash_values_tc0
 - hash_values_tc1
 - hash_values_tc2
