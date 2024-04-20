@@ -10,6 +10,9 @@ This repository contains the code, data, and analysis for an experiment designed
 **Instructions:**
 Download the repo files to your UNIX directory
 
+Because test files that would show significant results would be more than 25MB which is over the maximum file size to upload to GitHub, you will have to provide our own files to be hashed.
+
+These files consist of just an extremely long line of letter characters.
 
 **Compilation:**
 Use this line to compile the file:
@@ -24,12 +27,6 @@ Running the script will output results to a file. To get results for a specific 
 
 
 **Running:**
-3 Test Files are provided and a script to run the program
-Test files:
-- p2_tc0
-- p2_tc1
-- p2_tc2
-
 The Script will output and write results to their respective files:
 - hash_values_tc0
 - hash_values_tc1
